@@ -1,2 +1,7 @@
 node_modules/
-uploads/
+uploads/*.png
+uploads/*.svg
+uploads/*.jpg
+uploads/*.jpeg
+uploads/*.webp
+!uploads/.gitkeep
